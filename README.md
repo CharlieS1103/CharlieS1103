@@ -15,5 +15,5 @@
 ![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)
 
 #### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)](https://github.com/CharlieS1103/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
