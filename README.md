@@ -65,6 +65,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="32" length="32" alt="Debian" />
 </a>
 </div>
+
 ### Stats
 #### General stats
 ![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)
