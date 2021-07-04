@@ -28,6 +28,9 @@
 <a href="https://www.javascript.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" length="32" alt="JavaScript" />
  </a>
+<a href="https://www.python.org/">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" length="32" alt= "Python"
+ </a>
 <a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" length="32" alt="TypeScript" />
 </a>
