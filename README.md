@@ -29,7 +29,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" length="32" alt="JavaScript" />
  </a>
 <a href="https://www.python.org/">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" length="32" alt= "Python"
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" length="32" alt= "Python" />
+ </a>
+<a href="https://www.java.com/">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" length="32" alt="Java" />
+ </a>
+<a href="https://www.cplusplus.com/doc/tutorial/">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" length="32" alt= "C++" />
  </a>
 <a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" length="32" alt="TypeScript" />
