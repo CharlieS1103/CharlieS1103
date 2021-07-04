@@ -8,8 +8,8 @@
 - Pronouns: He/Him
 - Fun fact: I started programming with java
 ### People I know/work with:
-- @Keaton-KoolKid
-- @theblobscp
+- <a href="https://github.com/Keaton-KoolKid">@Keaton-KoolKid</a>
+- <a href="https://github.com/theblobscp">@theblobscp</a>
 
 ### Tools
 <div style="display: flex;">
