@@ -1,17 +1,25 @@
-## Hello, my names Charlie.
-- I’m currently working on Dimiri, a image recognition website in django.
-- I’m currently learning Django, and honing my general skills.
-- I’m looking to collaborate on Python and Java.
-- I’m looking for help with Assembly and C++
-- Ask me about Anything 
-- How to reach me: Discord, Email
-- Pronouns: He/Him
-- Fun fact: I started programming with java
-### People I know/work with:
-- <a href="https://github.com/Keaton-KoolKid">@Keaton-KoolKid</a>
-- <a href="https://github.com/theblobscp">@theblobscp</a>
+#Hello
 
-### Tools
+### Projects:
+- Dimiri: Basic Django site for image recognition
+- Spicetify-Themes: Making themes for spotify, fun project to learn css.
+- Homepage: Self explainatory
+#### Looking to collaborate on:
+- Dimiri
+- Homepage
+
+### Stats
+
+![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">📄 Favorite Languages:</h3>
+<p>
+<a target="_blank" ><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+</p>
+
 <div style="display: flex;">
 <a href="https://code.visualstudio.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" length="32" alt="Visual Studio Code" />
@@ -74,11 +82,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="32" length="32" alt="Debian" />
 </a>
 </div>
+<p align="center">
+<br>
+<text>Give me liberty or give me death - Patrick Henry</text>
+</p>
+<br>
 
-### Stats
-#### General stats
-![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)
-
-#### Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieS1103&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
+charlieS#1351
