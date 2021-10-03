@@ -1,12 +1,10 @@
 # Hello
 
 ### Projects:
-- Dimiri: Basic Django site for image recognition
 - Spicetify-Themes: Making themes for spotify, fun project to learn css.
-- Homepage: Self explainatory
+- Spicetify-Extensions: Making extensions for spotify, flexing those javascript muscles.
 #### Looking to collaborate on:
-- Dimiri
-- Homepage
+Nothing atm
 
 ### Stats
 
