@@ -2,9 +2,10 @@
 
 ### Projects:
 - Spicetify-Themes: Making themes for spotify, fun project to learn css.
-- Spicetify-Extensions: Making extensions for spotify, flexing those javascript muscles.
+- Spicetify-Extensions: Making extensions for spotify.
+- Spicetify-marketplace: A marketplace for spotify, to aggregate and provide a way to install extensions and themes
 #### Looking to collaborate on:
-Nothing atm
+Anything
 
 ### Stats
 
