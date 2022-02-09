@@ -5,7 +5,7 @@
 - Spicetify-Extensions: Making extensions for spotify.
 - Spicetify-marketplace: A marketplace for spotify, to aggregate and provide a way to install extensions and themes
 #### Looking to collaborate on:
-Anything
+Anything, as you can tell I have a lot of spicetify related projects, and mostly the reason for a lot of them is because I have zero ideas so if you have any let me know.
 
 ### Stats
 
