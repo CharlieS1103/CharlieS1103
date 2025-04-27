@@ -39,7 +39,7 @@
 <div align="center">
 
 ![Charlie’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlieS1103&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Profile impressions](https://komarev.com/ghpvc/?username=CharlieS1103&color=blue)
 </div>
 
 ---
@@ -67,3 +67,4 @@
 
 
 > 🛶 *"There are in our existence spots of time" - William Wordsworth*
+
