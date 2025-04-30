@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Charlie 
-*coder | amateur juggler | outdoors*
+*coder | student | outdoors*
 
 [Website](https://charlies1103.github.io/) • [LinkedIn](https://www.linkedin.com/in/charlie-simons-a16a78244/) • [Spicetify Work](https://github.com/spicetify/marketplace)
 
@@ -63,7 +63,7 @@
 - Larger tools or design work: $75+ (depends on complexity)
 
 **How to Reach Me:**  
-[Email](mailto:charliesimons03@gmail.com) • [Website Contact](https://charlies1103.github.io/)
+[Email](mailto:charliejsimons@gmail.com) • [Website Contact](https://charlies1103.github.io/)
 
 
 > 🛶 *"There are in our existence spots of time" - William Wordsworth*
